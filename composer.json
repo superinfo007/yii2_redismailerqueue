@@ -1,5 +1,5 @@
 {
-	"name" : "doctorjason/mailerqueue",
+	"name" : "redismailer/mailerqueue",
 	"type" : "yii2-extension",
 	"description" : "The Async mailer for the Yii framework",
 	"keywords" : [
@@ -10,9 +10,9 @@
 	],
 	"license" : "MIT",
 	"support" : {
-		"issues" : "https://github.com/BestJason/imooc_yii2_mailerqueue/issues",
-		"forum" : "http://www.mr-jason.com",
-		"source" : "https://github.com/BestJason/imooc_yii2_mailerqueue"
+		"issues" : "https://github.com/superinfo007/yii2_redismailerqueue/issues",
+		"forum" : "http://www.123.com",
+		"source" : "https://github.com/superinfo007/yii2_redismailerqueue"
 	},
 	"authors" : [{
 			"name" : "JasonLee",
@@ -25,7 +25,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"doctorjason\\mailerqueue\\" : "src/"
+			"redismailer\\mailerqueue\\" : "src/"
 		}
 	}
 }
